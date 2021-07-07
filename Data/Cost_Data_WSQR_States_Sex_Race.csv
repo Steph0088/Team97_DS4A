@@ -1,0 +1,512 @@
+Sex,Race,State,Ethnicity,Age Group,First Year,Last Year,Cause of Death,Deaths,Population,Crude Rate
+Males,White,Alabama,Both,All Ages,1999,2019,Firearm,9248,34502166,26.8
+Males,Black,Alabama,Both,All Ages,1999,2019,Firearm,5437,12316162,44.15
+Males,Am Indian/AK Native,Alabama,Both,All Ages,1999,2019,Firearm,27,346250,7.8
+Males,Asian/Pac Islander,Alabama,Both,All Ages,1999,2019,Firearm,43,610313,7.05
+Males,,Alabama,Both,All Ages,1999,2019,Firearm,14755,47774891,30.88
+Females,White,Alabama,Both,All Ages,1999,2019,Firearm,2228,35742590,6.23
+Females,Black,Alabama,Both,All Ages,1999,2019,Firearm,777,14134263,5.5
+Females,Am Indian/AK Native,Alabama,Both,All Ages,1999,2019,Firearm,P,339431,.
+Females,Asian/Pac Islander,Alabama,Both,All Ages,1999,2019,Firearm,12,668254,1.8
+Females,,Alabama,Both,All Ages,1999,2019,Firearm,S,50884538,.
+Males,White,Alaska,Both,All Ages,1999,2019,Firearm,1490,5469817,27.24
+Males,Black,Alaska,Both,All Ages,1999,2019,Firearm,123,358460,34.31
+Males,Am Indian/AK Native,Alaska,Both,All Ages,1999,2019,Firearm,666,1260254,52.85
+Males,Asian/Pac Islander,Alaska,Both,All Ages,1999,2019,Firearm,69,489350,14.1
+Males,,Alaska,Both,All Ages,1999,2019,Firearm,2348,7577881,30.98
+Females,White,Alaska,Both,All Ages,1999,2019,Firearm,277,4918991,5.63
+Females,Black,Alaska,Both,All Ages,1999,2019,Firearm,17,303684,5.6
+Females,Am Indian/AK Native,Alaska,Both,All Ages,1999,2019,Firearm,151,1234142,12.24
+Females,Asian/Pac Islander,Alaska,Both,All Ages,1999,2019,Firearm,22,531669,4.14
+Females,,Alaska,Both,All Ages,1999,2019,Firearm,467,6988486,6.68
+Males,White,Arizona,Both,All Ages,1999,2019,Firearm,15047,56071295,26.84
+Males,Black,Arizona,Both,All Ages,1999,2019,Firearm,1049,3255553,32.22
+Males,Am Indian/AK Native,Arizona,Both,All Ages,1999,2019,Firearm,751,3590313,20.92
+Males,Asian/Pac Islander,Arizona,Both,All Ages,1999,2019,Firearm,147,2132471,6.89
+Males,,Arizona,Both,All Ages,1999,2019,Firearm,16994,65049632,26.12
+Females,White,Arizona,Both,All Ages,1999,2019,Firearm,2686,56608775,4.74
+Females,Black,Arizona,Both,All Ages,1999,2019,Firearm,157,3017696,5.2
+Females,Am Indian/AK Native,Arizona,Both,All Ages,1999,2019,Firearm,111,3694665,3
+Females,Asian/Pac Islander,Arizona,Both,All Ages,1999,2019,Firearm,46,2346364,1.96
+Females,,Arizona,Both,All Ages,1999,2019,Firearm,3000,65667500,4.57
+Males,White,Arkansas,Both,All Ages,1999,2019,Firearm,6219,24166937,25.73
+Males,Black,Arkansas,Both,All Ages,1999,2019,Firearm,1997,4587556,43.53
+Males,Am Indian/AK Native,Arkansas,Both,All Ages,1999,2019,Firearm,16,285672,5.6
+Males,Asian/Pac Islander,Arkansas,Both,All Ages,1999,2019,Firearm,45,455571,9.88
+Males,,Arkansas,Both,All Ages,1999,2019,Firearm,8277,29495736,28.06
+Females,White,Arkansas,Both,All Ages,1999,2019,Firearm,1295,24822786,5.22
+Females,Black,Arkansas,Both,All Ages,1999,2019,Firearm,290,5066276,5.72
+Females,Am Indian/AK Native,Arkansas,Both,All Ages,1999,2019,Firearm,P,287215,.
+Females,Asian/Pac Islander,Arkansas,Both,All Ages,1999,2019,Firearm,P,485471,.
+Females,,Arkansas,Both,All Ages,1999,2019,Firearm,1594,30661748,5.2
+Males,White,California,Both,All Ages,1999,2019,Firearm,44209,296652159,14.9
+Males,Black,California,Both,All Ages,1999,2019,Firearm,11146,27874599,39.99
+Males,Am Indian/AK Native,California,Both,All Ages,1999,2019,Firearm,465,6970848,6.67
+Males,Asian/Pac Islander,California,Both,All Ages,1999,2019,Firearm,2828,54181913,5.22
+Males,,California,Both,All Ages,1999,2019,Firearm,58648,385679519,15.21
+Females,White,California,Both,All Ages,1999,2019,Firearm,6003,295110172,2.03
+Females,Black,California,Both,All Ages,1999,2019,Firearm,1080,28602811,3.78
+Females,Am Indian/AK Native,California,Both,All Ages,1999,2019,Firearm,76,6853932,1.11
+Females,Asian/Pac Islander,California,Both,All Ages,1999,2019,Firearm,521,59212512,0.88
+Females,,California,Both,All Ages,1999,2019,Firearm,7680,389779427,1.97
+Males,White,Colorado,Both,All Ages,1999,2019,Firearm,9861,47319999,20.84
+Males,Black,Colorado,Both,All Ages,1999,2019,Firearm,717,2665993,26.89
+Males,Am Indian/AK Native,Colorado,Both,All Ages,1999,2019,Firearm,135,903921,14.93
+Males,Asian/Pac Islander,Colorado,Both,All Ages,1999,2019,Firearm,120,1661156,7.22
+Males,,Colorado,Both,All Ages,1999,2019,Firearm,10833,52551069,20.61
+Females,White,Colorado,Both,All Ages,1999,2019,Firearm,1732,46855574,3.7
+Females,Black,Colorado,Both,All Ages,1999,2019,Firearm,95,2420616,3.92
+Females,Am Indian/AK Native,Colorado,Both,All Ages,1999,2019,Firearm,30,882075,3.4
+Females,Asian/Pac Islander,Colorado,Both,All Ages,1999,2019,Firearm,28,1896370,1.48
+Females,,Colorado,Both,All Ages,1999,2019,Firearm,1885,52054635,3.62
+Males,White,Connecticut,Both,All Ages,1999,2019,Firearm,2483,30329556,8.19
+Males,Black,Connecticut,Both,All Ages,1999,2019,Firearm,937,4075024,22.99
+Males,Am Indian/AK Native,Connecticut,Both,All Ages,1999,2019,Firearm,P,198726,.
+Males,Asian/Pac Islander,Connecticut,Both,All Ages,1999,2019,Firearm,25,1470730,1.7
+Males,,Connecticut,Both,All Ages,1999,2019,Firearm,S,36074036,.
+Females,White,Connecticut,Both,All Ages,1999,2019,Firearm,308,31877799,0.97
+Females,Black,Connecticut,Both,All Ages,1999,2019,Firearm,80,4462050,1.79
+Females,Am Indian/AK Native,Connecticut,Both,All Ages,1999,2019,Firearm,P,194137,.
+Females,Asian/Pac Islander,Connecticut,Both,All Ages,1999,2019,Firearm,P,1542888,.
+Females,,Connecticut,Both,All Ages,1999,2019,Firearm,393,38076874,1.03
+Males,White,Delaware,Both,All Ages,1999,2019,Firearm,945,6642499,14.23
+Males,Black,Delaware,Both,All Ages,1999,2019,Firearm,619,1962695,31.54
+Males,Am Indian/AK Native,Delaware,Both,All Ages,1999,2019,Firearm,P,59345,.
+Males,Asian/Pac Islander,Delaware,Both,All Ages,1999,2019,Firearm,14,311976,4.49
+Males,,Delaware,Both,All Ages,1999,2019,Firearm,S,8976515,.
+Females,White,Delaware,Both,All Ages,1999,2019,Firearm,172,6971502,2.47
+Females,Black,Delaware,Both,All Ages,1999,2019,Firearm,56,2188827,2.56
+Females,Am Indian/AK Native,Delaware,Both,All Ages,1999,2019,Firearm,P,59270,.
+Females,Asian/Pac Islander,Delaware,Both,All Ages,1999,2019,Firearm,P,330524,.
+Females,,Delaware,Both,All Ages,1999,2019,Firearm,229,9550123,2.4
+Males,White,District of Columbia,Both,All Ages,1999,2019,Firearm,133,2676918,4.97
+Males,Black,District of Columbia,Both,All Ages,1999,2019,Firearm,2330,3180176,73.27
+Males,Am Indian/AK Native,District of Columbia,Both,All Ages,1999,2019,Firearm,P,39867,.
+Males,Asian/Pac Islander,District of Columbia,Both,All Ages,1999,2019,Firearm,12,223881,5.36
+Males,,District of Columbia,Both,All Ages,1999,2019,Firearm,S,6120842,.
+Females,White,District of Columbia,Both,All Ages,1999,2019,Firearm,16,2666775,0.6
+Females,Black,District of Columbia,Both,All Ages,1999,2019,Firearm,173,3822784,4.53
+Females,Am Indian/AK Native,District of Columbia,Both,All Ages,1999,2019,Firearm,P,39953,.
+Females,Asian/Pac Islander,District of Columbia,Both,All Ages,1999,2019,Firearm,P,293009,.
+Females,,District of Columbia,Both,All Ages,1999,2019,Firearm,190,6822521,2.78
+Males,White,Florida,Both,All Ages,1999,2019,Firearm,29726,153843549,19.32
+Males,Black,Florida,Both,All Ages,1999,2019,Firearm,9899,31582671,31.34
+Males,Am Indian/AK Native,Florida,Both,All Ages,1999,2019,Firearm,49,1036392,4.73
+Males,Asian/Pac Islander,Florida,Both,All Ages,1999,2019,Firearm,302,5086958,5.94
+Males,,Florida,Both,All Ages,1999,2019,Firearm,39976,191549570,20.87
+Females,White,Florida,Both,All Ages,1999,2019,Firearm,6260,159592854,3.92
+Females,Black,Florida,Both,All Ages,1999,2019,Firearm,1207,33964586,3.55
+Females,Am Indian/AK Native,Florida,Both,All Ages,1999,2019,Firearm,P,957852,.
+Females,Asian/Pac Islander,Florida,Both,All Ages,1999,2019,Firearm,76,5819704,1.31
+Females,,Florida,Both,All Ages,1999,2019,Firearm,S,200334996,.
+Males,White,Georgia,Both,All Ages,1999,2019,Firearm,13462,63781796,21.11
+Males,Black,Georgia,Both,All Ages,1999,2019,Firearm,8652,29277550,29.55
+Males,Am Indian/AK Native,Georgia,Both,All Ages,1999,2019,Firearm,34,513982,6.62
+Males,Asian/Pac Islander,Georgia,Both,All Ages,1999,2019,Firearm,305,3472811,8.78
+Males,,Georgia,Both,All Ages,1999,2019,Firearm,22453,97046139,23.14
+Females,White,Georgia,Both,All Ages,1999,2019,Firearm,3192,64317987,4.96
+Females,Black,Georgia,Both,All Ages,1999,2019,Firearm,1259,33070869,3.81
+Females,Am Indian/AK Native,Georgia,Both,All Ages,1999,2019,Firearm,P,466650,.
+Females,Asian/Pac Islander,Georgia,Both,All Ages,1999,2019,Firearm,67,3660693,1.83
+Females,,Georgia,Both,All Ages,1999,2019,Firearm,S,101516199,.
+Males,White,Hawaii,Both,All Ages,1999,2019,Firearm,374,4537334,8.24
+Males,Black,Hawaii,Both,All Ages,1999,2019,Firearm,21,448367,4.68
+Males,Am Indian/AK Native,Hawaii,Both,All Ages,1999,2019,Firearm,P,65248,.
+Males,Asian/Pac Islander,Hawaii,Both,All Ages,1999,2019,Firearm,421,9030068,4.66
+Males,,Hawaii,Both,All Ages,1999,2019,Firearm,S,14081017,.
+Females,White,Hawaii,Both,All Ages,1999,2019,Firearm,56,3963950,1.41
+Females,Black,Hawaii,Both,All Ages,1999,2019,Firearm,P,315861,.
+Females,Am Indian/AK Native,Hawaii,Both,All Ages,1999,2019,Firearm,P,56890,.
+Females,Asian/Pac Islander,Hawaii,Both,All Ages,1999,2019,Firearm,65,9659100,0.67
+Females,,Hawaii,Both,All Ages,1999,2019,Firearm,123,13995801,0.88
+Males,White,Idaho,Both,All Ages,1999,2019,Firearm,3540,15353805,23.06
+Males,Black,Idaho,Both,All Ages,1999,2019,Firearm,18,173110,10.4
+Males,Am Indian/AK Native,Idaho,Both,All Ages,1999,2019,Firearm,66,297708,22.17
+Males,Asian/Pac Islander,Idaho,Both,All Ages,1999,2019,Firearm,16,242864,6.59
+Males,,Idaho,Both,All Ages,1999,2019,Firearm,3640,16067487,22.65
+Females,White,Idaho,Both,All Ages,1999,2019,Firearm,580,15277352,3.8
+Females,Black,Idaho,Both,All Ages,1999,2019,Firearm,P,136535,.
+Females,Am Indian/AK Native,Idaho,Both,All Ages,1999,2019,Firearm,18,295979,6.08
+Females,Asian/Pac Islander,Idaho,Both,All Ages,1999,2019,Firearm,P,282050,.
+Females,,Idaho,Both,All Ages,1999,2019,Firearm,605,15991916,3.78
+Males,White,Illinois,Both,All Ages,1999,2019,Firearm,11485,104370512,11
+Males,Black,Illinois,Both,All Ages,1999,2019,Firearm,10796,19252409,56.08
+Males,Am Indian/AK Native,Illinois,Both,All Ages,1999,2019,Firearm,16,781049,2.05
+Males,Asian/Pac Islander,Illinois,Both,All Ages,1999,2019,Firearm,114,6410586,1.78
+Males,,Illinois,Both,All Ages,1999,2019,Firearm,22411,130814556,17.13
+Females,White,Illinois,Both,All Ages,1999,2019,Firearm,1575,106579563,1.48
+Females,Black,Illinois,Both,All Ages,1999,2019,Firearm,895,21716215,4.12
+Females,Am Indian/AK Native,Illinois,Both,All Ages,1999,2019,Firearm,P,751293,.
+Females,Asian/Pac Islander,Illinois,Both,All Ages,1999,2019,Firearm,20,6802922,0.29
+Females,,Illinois,Both,All Ages,1999,2019,Firearm,S,135849993,.
+Males,White,Indiana,Both,All Ages,1999,2019,Firearm,10181,58419213,17.43
+Males,Black,Indiana,Both,All Ages,1999,2019,Firearm,3724,6352970,58.62
+Males,Am Indian/AK Native,Indiana,Both,All Ages,1999,2019,Firearm,12,285456,4.2
+Males,Asian/Pac Islander,Indiana,Both,All Ages,1999,2019,Firearm,61,1238416,4.93
+Males,,Indiana,Both,All Ages,1999,2019,Firearm,13978,66296055,21.08
+Females,White,Indiana,Both,All Ages,1999,2019,Firearm,1854,60073389,3.09
+Females,Black,Indiana,Both,All Ages,1999,2019,Firearm,477,6835793,6.98
+Females,Am Indian/AK Native,Indiana,Both,All Ages,1999,2019,Firearm,P,276671,.
+Females,Asian/Pac Islander,Indiana,Both,All Ages,1999,2019,Firearm,14,1272002,1.1
+Females,,Indiana,Both,All Ages,1999,2019,Firearm,S,68457855,.
+Males,White,Iowa,Both,All Ages,1999,2019,Firearm,3876,29524322,13.13
+Males,Black,Iowa,Both,All Ages,1999,2019,Firearm,238,1163108,20.46
+Males,Am Indian/AK Native,Iowa,Both,All Ages,1999,2019,Firearm,10,154003,6.49
+Males,Asian/Pac Islander,Iowa,Both,All Ages,1999,2019,Firearm,22,658268,3.34
+Males,,Iowa,Both,All Ages,1999,2019,Firearm,4146,31499701,13.16
+Females,White,Iowa,Both,All Ages,1999,2019,Firearm,513,30335569,1.69
+Females,Black,Iowa,Both,All Ages,1999,2019,Firearm,33,1046255,3.15
+Females,Am Indian/AK Native,Iowa,Both,All Ages,1999,2019,Firearm,P,155422,.
+Females,Asian/Pac Islander,Iowa,Both,All Ages,1999,2019,Firearm,P,655828,.
+Females,,Iowa,Both,All Ages,1999,2019,Firearm,557,32193074,1.73
+Males,White,Kansas,Both,All Ages,1999,2019,Firearm,4874,26118004,18.66
+Males,Black,Kansas,Both,All Ages,1999,2019,Firearm,862,2029167,42.48
+Males,Am Indian/AK Native,Kansas,Both,All Ages,1999,2019,Firearm,70,399203,17.53
+Males,Asian/Pac Islander,Kansas,Both,All Ages,1999,2019,Firearm,61,791577,7.71
+Males,,Kansas,Both,All Ages,1999,2019,Firearm,5867,29337951,20
+Females,White,Kansas,Both,All Ages,1999,2019,Firearm,789,26613893,2.96
+Females,Black,Kansas,Both,All Ages,1999,2019,Firearm,128,1952486,6.56
+Females,Am Indian/AK Native,Kansas,Both,All Ages,1999,2019,Firearm,P,395998,.
+Females,Asian/Pac Islander,Kansas,Both,All Ages,1999,2019,Firearm,P,831100,.
+Females,,Kansas,Both,All Ages,1999,2019,Firearm,934,29793477,3.13
+Males,White,Kentucky,Both,All Ages,1999,2019,Firearm,9305,39760015,23.4
+Males,Black,Kentucky,Both,All Ages,1999,2019,Firearm,1383,3713401,37.24
+Males,Am Indian/AK Native,Kentucky,Both,All Ages,1999,2019,Firearm,10,130927,7.64
+Males,Asian/Pac Islander,Kentucky,Both,All Ages,1999,2019,Firearm,31,572341,5.42
+Males,,Kentucky,Both,All Ages,1999,2019,Firearm,10729,44176684,24.29
+Females,White,Kentucky,Both,All Ages,1999,2019,Firearm,1888,41200297,4.58
+Females,Black,Kentucky,Both,All Ages,1999,2019,Firearm,170,3797546,4.48
+Females,Am Indian/AK Native,Kentucky,Both,All Ages,1999,2019,Firearm,P,120761,.
+Females,Asian/Pac Islander,Kentucky,Both,All Ages,1999,2019,Firearm,P,618239,.
+Females,,Kentucky,Both,All Ages,1999,2019,Firearm,2067,45736843,4.52
+Males,White,Louisiana,Both,All Ages,1999,2019,Firearm,7491,30443582,24.61
+Males,Black,Louisiana,Both,All Ages,1999,2019,Firearm,8070,14925886,54.07
+Males,Am Indian/AK Native,Louisiana,Both,All Ages,1999,2019,Firearm,28,364375,7.68
+Males,Asian/Pac Islander,Louisiana,Both,All Ages,1999,2019,Firearm,87,810392,10.74
+Males,,Louisiana,Both,All Ages,1999,2019,Firearm,15676,46544235,33.68
+Females,White,Louisiana,Both,All Ages,1999,2019,Firearm,1782,31202585,5.71
+Females,Black,Louisiana,Both,All Ages,1999,2019,Firearm,976,16533416,5.9
+Females,Am Indian/AK Native,Louisiana,Both,All Ages,1999,2019,Firearm,12,361824,3.32
+Females,Asian/Pac Islander,Louisiana,Both,All Ages,1999,2019,Firearm,26,818594,3.18
+Females,,Louisiana,Both,All Ages,1999,2019,Firearm,2796,48916419,5.72
+Males,White,Maine,Both,All Ages,1999,2019,Firearm,2221,13085236,16.97
+Males,Black,Maine,Both,All Ages,1999,2019,Firearm,24,214274,11.2
+Males,Am Indian/AK Native,Maine,Both,All Ages,1999,2019,Firearm,15,103334,14.52
+Males,Asian/Pac Islander,Maine,Both,All Ages,1999,2019,Firearm,P,138258,.
+Males,,Maine,Both,All Ages,1999,2019,Firearm,S,13541102,.
+Females,White,Maine,Both,All Ages,1999,2019,Firearm,324,13702111,2.36
+Females,Black,Maine,Both,All Ages,1999,2019,Firearm,P,172827,.
+Females,Am Indian/AK Native,Maine,Both,All Ages,1999,2019,Firearm,P,106742,.
+Females,Asian/Pac Islander,Maine,Both,All Ages,1999,2019,Firearm,P,172956,.
+Females,,Maine,Both,All Ages,1999,2019,Firearm,331,14154636,2.34
+Males,White,Maryland,Both,All Ages,1999,2019,Firearm,4720,37191123,12.69
+Males,Black,Maryland,Both,All Ages,1999,2019,Firearm,7290,17184760,42.42
+Males,Am Indian/AK Native,Maryland,Both,All Ages,1999,2019,Firearm,23,347405,6.62
+Males,Asian/Pac Islander,Maryland,Both,All Ages,1999,2019,Firearm,138,3411106,4.05
+Males,,Maryland,Both,All Ages,1999,2019,Firearm,12171,58134394,20.94
+Females,White,Maryland,Both,All Ages,1999,2019,Firearm,727,38362051,1.9
+Females,Black,Maryland,Both,All Ages,1999,2019,Firearm,555,19623422,2.83
+Females,Am Indian/AK Native,Maryland,Both,All Ages,1999,2019,Firearm,P,337038,.
+Females,Asian/Pac Islander,Maryland,Both,All Ages,1999,2019,Firearm,24,3729759,0.64
+Females,,Maryland,Both,All Ages,1999,2019,Firearm,S,62052270,.
+Males,White,Massachusetts,Both,All Ages,1999,2019,Firearm,3071,57148644,5.37
+Males,Black,Massachusetts,Both,All Ages,1999,2019,Firearm,1115,5476207,20.36
+Males,Am Indian/AK Native,Massachusetts,Both,All Ages,1999,2019,Firearm,11,338710,3.25
+Males,Asian/Pac Islander,Massachusetts,Both,All Ages,1999,2019,Firearm,56,3857975,1.45
+Males,,Massachusetts,Both,All Ages,1999,2019,Firearm,4253,66821536,6.36
+Females,White,Massachusetts,Both,All Ages,1999,2019,Firearm,356,60956070,0.58
+Females,Black,Massachusetts,Both,All Ages,1999,2019,Firearm,78,5852889,1.33
+Females,Am Indian/AK Native,Massachusetts,Both,All Ages,1999,2019,Firearm,P,334907,.
+Females,Asian/Pac Islander,Massachusetts,Both,All Ages,1999,2019,Firearm,11,4148772,0.27
+Females,,Massachusetts,Both,All Ages,1999,2019,Firearm,S,71292638,.
+Males,White,Michigan,Both,All Ages,1999,2019,Firearm,12253,84231522,14.55
+Males,Black,Michigan,Both,All Ages,1999,2019,Firearm,8338,14837365,56.2
+Males,Am Indian/AK Native,Michigan,Both,All Ages,1999,2019,Firearm,102,862656,11.82
+Males,Asian/Pac Islander,Michigan,Both,All Ages,1999,2019,Firearm,114,2830254,4.03
+Males,,Michigan,Both,All Ages,1999,2019,Firearm,20807,102761797,20.25
+Females,White,Michigan,Both,All Ages,1999,2019,Firearm,1861,86281859,2.16
+Females,Black,Michigan,Both,All Ages,1999,2019,Firearm,991,16370437,6.05
+Females,Am Indian/AK Native,Michigan,Both,All Ages,1999,2019,Firearm,22,888024,2.48
+Females,Asian/Pac Islander,Michigan,Both,All Ages,1999,2019,Firearm,25,2923340,0.86
+Females,,Michigan,Both,All Ages,1999,2019,Firearm,2899,106463660,2.72
+Males,White,Minnesota,Both,All Ages,1999,2019,Firearm,5873,48535860,12.1
+Males,Black,Minnesota,Both,All Ages,1999,2019,Firearm,770,3275663,23.51
+Males,Am Indian/AK Native,Minnesota,Both,All Ages,1999,2019,Firearm,157,795885,19.73
+Males,Asian/Pac Islander,Minnesota,Both,All Ages,1999,2019,Firearm,158,2352541,6.72
+Males,,Minnesota,Both,All Ages,1999,2019,Firearm,6958,54959949,12.66
+Females,White,Minnesota,Both,All Ages,1999,2019,Firearm,741,49332498,1.5
+Females,Black,Minnesota,Both,All Ages,1999,2019,Firearm,83,3130034,2.65
+Females,Am Indian/AK Native,Minnesota,Both,All Ages,1999,2019,Firearm,30,798313,3.76
+Females,Asian/Pac Islander,Minnesota,Both,All Ages,1999,2019,Firearm,18,2456225,0.73
+Females,,Minnesota,Both,All Ages,1999,2019,Firearm,872,55717070,1.57
+Males,White,Mississippi,Both,All Ages,1999,2019,Firearm,5239,18545520,28.25
+Males,Black,Mississippi,Both,All Ages,1999,2019,Firearm,4065,10867532,37.4
+Males,Am Indian/AK Native,Mississippi,Both,All Ages,1999,2019,Firearm,15,171253,8.76
+Males,Asian/Pac Islander,Mississippi,Both,All Ages,1999,2019,Firearm,50,291535,17.15
+Males,,Mississippi,Both,All Ages,1999,2019,Firearm,9369,29875840,31.36
+Females,White,Mississippi,Both,All Ages,1999,2019,Firearm,1230,19023065,6.47
+Females,Black,Mississippi,Both,All Ages,1999,2019,Firearm,641,12229263,5.24
+Females,Am Indian/AK Native,Mississippi,Both,All Ages,1999,2019,Firearm,P,173629,.
+Females,Asian/Pac Islander,Mississippi,Both,All Ages,1999,2019,Firearm,15,321700,4.66
+Females,,Mississippi,Both,All Ages,1999,2019,Firearm,S,31747657,.
+Males,White,Missouri,Both,All Ages,1999,2019,Firearm,10895,51949337,20.97
+Males,Black,Missouri,Both,All Ages,1999,2019,Firearm,4985,7173019,69.5
+Males,Am Indian/AK Native,Missouri,Both,All Ages,1999,2019,Firearm,37,399500,9.26
+Males,Asian/Pac Islander,Missouri,Both,All Ages,1999,2019,Firearm,75,1132293,6.62
+Males,,Missouri,Both,All Ages,1999,2019,Firearm,15992,60654149,26.37
+Females,White,Missouri,Both,All Ages,1999,2019,Firearm,1989,53772727,3.7
+Females,Black,Missouri,Both,All Ages,1999,2019,Firearm,636,7936234,8.01
+Females,Am Indian/AK Native,Missouri,Both,All Ages,1999,2019,Firearm,P,396013,.
+Females,Asian/Pac Islander,Missouri,Both,All Ages,1999,2019,Firearm,19,1232523,1.54
+Females,,Missouri,Both,All Ages,1999,2019,Firearm,S,63337497,.
+Males,White,Montana,Both,All Ages,1999,2019,Firearm,2710,9432641,28.73
+Males,Black,Montana,Both,All Ages,1999,2019,Firearm,18,87975,20.46
+Males,Am Indian/AK Native,Montana,Both,All Ages,1999,2019,Firearm,192,714841,26.86
+Males,Asian/Pac Islander,Montana,Both,All Ages,1999,2019,Firearm,P,77186,.
+Males,,Montana,Both,All Ages,1999,2019,Firearm,S,10312643,.
+Females,White,Montana,Both,All Ages,1999,2019,Firearm,470,9364899,5.02
+Females,Black,Montana,Both,All Ages,1999,2019,Firearm,P,62710,.
+Females,Am Indian/AK Native,Montana,Both,All Ages,1999,2019,Firearm,40,725525,5.51
+Females,Asian/Pac Islander,Montana,Both,All Ages,1999,2019,Firearm,P,100384,.
+Females,,Montana,Both,All Ages,1999,2019,Firearm,518,10253518,5.05
+Males,White,Nebraska,Both,All Ages,1999,2019,Firearm,2458,17259881,14.24
+Males,Black,Nebraska,Both,All Ages,1999,2019,Firearm,392,998610,39.25
+Males,Am Indian/AK Native,Nebraska,Both,All Ages,1999,2019,Firearm,29,258917,11.2
+Males,Asian/Pac Islander,Nebraska,Both,All Ages,1999,2019,Firearm,15,398686,3.76
+Males,,Nebraska,Both,All Ages,1999,2019,Firearm,2894,18916094,15.3
+Females,White,Nebraska,Both,All Ages,1999,2019,Firearm,301,17550302,1.72
+Females,Black,Nebraska,Both,All Ages,1999,2019,Firearm,51,972955,5.24
+Females,Am Indian/AK Native,Nebraska,Both,All Ages,1999,2019,Firearm,13,258369,5.03
+Females,Asian/Pac Islander,Nebraska,Both,All Ages,1999,2019,Firearm,P,420813,.
+Females,,Nebraska,Both,All Ages,1999,2019,Firearm,S,19202439,.
+Males,White,Nevada,Both,All Ages,1999,2019,Firearm,6037,22224142,27.16
+Males,Black,Nevada,Both,All Ages,1999,2019,Firearm,965,2585064,37.33
+Males,Am Indian/AK Native,Nevada,Both,All Ages,1999,2019,Firearm,88,489176,17.99
+Males,Asian/Pac Islander,Nevada,Both,All Ages,1999,2019,Firearm,185,2133497,8.67
+Males,,Nevada,Both,All Ages,1999,2019,Firearm,7275,27431879,26.52
+Females,White,Nevada,Both,All Ages,1999,2019,Firearm,1162,21330894,5.45
+Females,Black,Nevada,Both,All Ages,1999,2019,Firearm,135,2562327,5.27
+Females,Am Indian/AK Native,Nevada,Both,All Ages,1999,2019,Firearm,20,492486,4.06
+Females,Asian/Pac Islander,Nevada,Both,All Ages,1999,2019,Firearm,71,2509712,2.83
+Females,,Nevada,Both,All Ages,1999,2019,Firearm,1388,26895419,5.16
+Males,White,New Hampshire,Both,All Ages,1999,2019,Firearm,1853,12969339,14.29
+Males,Black,New Hampshire,Both,All Ages,1999,2019,Firearm,10,228237,4.38
+Males,Am Indian/AK Native,New Hampshire,Both,All Ages,1999,2019,Firearm,P,48893,.
+Males,Asian/Pac Islander,New Hampshire,Both,All Ages,1999,2019,Firearm,12,314668,3.81
+Males,,New Hampshire,Both,All Ages,1999,2019,Firearm,S,13561137,.
+Females,White,New Hampshire,Both,All Ages,1999,2019,Firearm,275,13337528,2.06
+Females,Black,New Hampshire,Both,All Ages,1999,2019,Firearm,P,185742,.
+Females,Am Indian/AK Native,New Hampshire,Both,All Ages,1999,2019,Firearm,P,45464,.
+Females,Asian/Pac Islander,New Hampshire,Both,All Ages,1999,2019,Firearm,P,339980,.
+Females,,New Hampshire,Both,All Ages,1999,2019,Firearm,281,13908714,2.02
+Males,White,New Jersey,Both,All Ages,1999,2019,Firearm,4231,67859282,6.23
+Males,Black,New Jersey,Both,All Ages,1999,2019,Firearm,3974,13162952,30.19
+Males,Am Indian/AK Native,New Jersey,Both,All Ages,1999,2019,Firearm,P,539639,.
+Males,Asian/Pac Islander,New Jersey,Both,All Ages,1999,2019,Firearm,100,7596761,1.32
+Males,,New Jersey,Both,All Ages,1999,2019,Firearm,S,89158634,.
+Females,White,New Jersey,Both,All Ages,1999,2019,Firearm,556,70829195,0.78
+Females,Black,New Jersey,Both,All Ages,1999,2019,Firearm,315,14668604,2.15
+Females,Am Indian/AK Native,New Jersey,Both,All Ages,1999,2019,Firearm,P,515111,.
+Females,Asian/Pac Islander,New Jersey,Both,All Ages,1999,2019,Firearm,12,7937519,0.15
+Females,,New Jersey,Both,All Ages,1999,2019,Firearm,S,93950429,.
+Males,White,New Mexico,Both,All Ages,1999,2019,Firearm,5287,17523092,30.17
+Males,Black,New Mexico,Both,All Ages,1999,2019,Firearm,196,618462,31.69
+Males,Am Indian/AK Native,New Mexico,Both,All Ages,1999,2019,Firearm,395,2202278,17.94
+Males,Asian/Pac Islander,New Mexico,Both,All Ages,1999,2019,Firearm,35,348963,10.03
+Males,,New Mexico,Both,All Ages,1999,2019,Firearm,5913,20692795,28.58
+Females,White,New Mexico,Both,All Ages,1999,2019,Firearm,893,17937003,4.98
+Females,Black,New Mexico,Both,All Ages,1999,2019,Firearm,20,536151,3.73
+Females,Am Indian/AK Native,New Mexico,Both,All Ages,1999,2019,Firearm,49,2325999,2.11
+Females,Asian/Pac Islander,New Mexico,Both,All Ages,1999,2019,Firearm,P,408238,.
+Females,,New Mexico,Both,All Ages,1999,2019,Firearm,S,21207391,.
+Males,White,New York,Both,All Ages,1999,2019,Firearm,10983,144659746,7.59
+Males,Black,New York,Both,All Ages,1999,2019,Firearm,6889,34390956,20.03
+Males,Am Indian/AK Native,New York,Both,All Ages,1999,2019,Firearm,38,1961406,1.94
+Males,Asian/Pac Islander,New York,Both,All Ages,1999,2019,Firearm,236,15428184,1.53
+Males,,New York,Both,All Ages,1999,2019,Firearm,18146,196440292,9.24
+Females,White,New York,Both,All Ages,1999,2019,Firearm,1227,151367762,0.81
+Females,Black,New York,Both,All Ages,1999,2019,Firearm,532,39666233,1.34
+Females,Am Indian/AK Native,New York,Both,All Ages,1999,2019,Firearm,P,1984323,.
+Females,Asian/Pac Islander,New York,Both,All Ages,1999,2019,Firearm,41,16467158,0.25
+Females,,New York,Both,All Ages,1999,2019,Firearm,S,209485476,.
+Males,White,North Carolina,Both,All Ages,1999,2019,Firearm,14271,70517330,20.24
+Males,Black,North Carolina,Both,All Ages,1999,2019,Firearm,6181,20681203,29.89
+Males,Am Indian/AK Native,North Carolina,Both,All Ages,1999,2019,Firearm,399,1519009,26.27
+Males,Asian/Pac Islander,North Carolina,Both,All Ages,1999,2019,Firearm,151,2406824,6.27
+Males,,North Carolina,Both,All Ages,1999,2019,Firearm,21002,95124366,22.08
+Females,White,North Carolina,Both,All Ages,1999,2019,Firearm,3056,72487953,4.22
+Females,Black,North Carolina,Both,All Ages,1999,2019,Firearm,805,23365100,3.45
+Females,Am Indian/AK Native,North Carolina,Both,All Ages,1999,2019,Firearm,65,1543668,4.21
+Females,Asian/Pac Islander,North Carolina,Both,All Ages,1999,2019,Firearm,43,2562212,1.68
+Females,,North Carolina,Both,All Ages,1999,2019,Firearm,3969,99958933,3.97
+Males,White,North Dakota,Both,All Ages,1999,2019,Firearm,1173,6645208,17.65
+Males,Black,North Dakota,Both,All Ages,1999,2019,Firearm,20,162041,12.34
+Males,Am Indian/AK Native,North Dakota,Both,All Ages,1999,2019,Firearm,78,403041,19.35
+Males,Asian/Pac Islander,North Dakota,Both,All Ages,1999,2019,Firearm,P,89001,.
+Males,,North Dakota,Both,All Ages,1999,2019,Firearm,S,7299291,.
+Females,White,North Dakota,Both,All Ages,1999,2019,Firearm,147,6498157,2.26
+Females,Black,North Dakota,Both,All Ages,1999,2019,Firearm,P,117563,.
+Females,Am Indian/AK Native,North Dakota,Both,All Ages,1999,2019,Firearm,12,415084,2.89
+Females,Asian/Pac Islander,North Dakota,Both,All Ages,1999,2019,Firearm,P,88967,.
+Females,,North Dakota,Both,All Ages,1999,2019,Firearm,161,7119771,2.26
+Males,White,Ohio,Both,All Ages,1999,2019,Firearm,15086,100428836,15.02
+Males,Black,Ohio,Both,All Ages,1999,2019,Firearm,6521,15018116,43.42
+Males,Am Indian/AK Native,Ohio,Both,All Ages,1999,2019,Firearm,18,396695,4.54
+Males,Asian/Pac Islander,Ohio,Both,All Ages,1999,2019,Firearm,122,2255854,5.41
+Males,,Ohio,Both,All Ages,1999,2019,Firearm,21747,118099501,18.41
+Females,White,Ohio,Both,All Ages,1999,2019,Firearm,2608,104620674,2.49
+Females,Black,Ohio,Both,All Ages,1999,2019,Firearm,738,16424548,4.49
+Females,Am Indian/AK Native,Ohio,Both,All Ages,1999,2019,Firearm,P,399610,.
+Females,Asian/Pac Islander,Ohio,Both,All Ages,1999,2019,Firearm,20,2413172,0.83
+Females,,Ohio,Both,All Ages,1999,2019,Firearm,S,123858004,.
+Males,White,Oklahoma,Both,All Ages,1999,2019,Firearm,7603,30475751,24.95
+Males,Black,Oklahoma,Both,All Ages,1999,2019,Firearm,1422,3295347,43.15
+Males,Am Indian/AK Native,Oklahoma,Both,All Ages,1999,2019,Firearm,783,3875262,20.21
+Males,Asian/Pac Islander,Oklahoma,Both,All Ages,1999,2019,Firearm,85,809548,10.5
+Males,,Oklahoma,Both,All Ages,1999,2019,Firearm,9893,38455908,25.73
+Females,White,Oklahoma,Both,All Ages,1999,2019,Firearm,1610,31170000,5.17
+Females,Black,Oklahoma,Both,All Ages,1999,2019,Firearm,186,3324020,5.6
+Females,Am Indian/AK Native,Oklahoma,Both,All Ages,1999,2019,Firearm,161,3972872,4.05
+Females,Asian/Pac Islander,Oklahoma,Both,All Ages,1999,2019,Firearm,21,872627,2.41
+Females,,Oklahoma,Both,All Ages,1999,2019,Firearm,1978,39339519,5.03
+Males,White,Oregon,Both,All Ages,1999,2019,Firearm,7324,35839327,20.44
+Males,Black,Oregon,Both,All Ages,1999,2019,Firearm,228,1036201,22
+Males,Am Indian/AK Native,Oregon,Both,All Ages,1999,2019,Firearm,116,809655,14.33
+Males,Asian/Pac Islander,Oregon,Both,All Ages,1999,2019,Firearm,115,1767235,6.51
+Males,,Oregon,Both,All Ages,1999,2019,Firearm,7783,39452418,19.73
+Females,White,Oregon,Both,All Ages,1999,2019,Firearm,1296,36497903,3.55
+Females,Black,Oregon,Both,All Ages,1999,2019,Firearm,20,909315,2.2
+Females,Am Indian/AK Native,Oregon,Both,All Ages,1999,2019,Firearm,17,796067,2.14
+Females,Asian/Pac Islander,Oregon,Both,All Ages,1999,2019,Firearm,30,1987960,1.51
+Females,,Oregon,Both,All Ages,1999,2019,Firearm,1363,40191245,3.39
+Males,White,Pennsylvania,Both,All Ages,1999,2019,Firearm,17328,109737541,15.79
+Males,Black,Pennsylvania,Both,All Ages,1999,2019,Firearm,7950,14824319,53.63
+Males,Am Indian/AK Native,Pennsylvania,Both,All Ages,1999,2019,Firearm,20,446777,4.48
+Males,Asian/Pac Islander,Pennsylvania,Both,All Ages,1999,2019,Firearm,200,3780522,5.29
+Males,,Pennsylvania,Both,All Ages,1999,2019,Firearm,25498,128789159,19.8
+Females,White,Pennsylvania,Both,All Ages,1999,2019,Firearm,2813,115106083,2.44
+Females,Black,Pennsylvania,Both,All Ages,1999,2019,Firearm,648,16147347,4.01
+Females,Am Indian/AK Native,Pennsylvania,Both,All Ages,1999,2019,Firearm,P,450204,.
+Females,Asian/Pac Islander,Pennsylvania,Both,All Ages,1999,2019,Firearm,29,4013389,0.72
+Females,,Pennsylvania,Both,All Ages,1999,2019,Firearm,S,135717023,.
+Males,White,Rhode Island,Both,All Ages,1999,2019,Firearm,697,9412633,7.4
+Males,Black,Rhode Island,Both,All Ages,1999,2019,Firearm,121,865449,13.98
+Males,Am Indian/AK Native,Rhode Island,Both,All Ages,1999,2019,Firearm,10,101975,9.81
+Males,Asian/Pac Islander,Rhode Island,Both,All Ages,1999,2019,Firearm,18,359116,5.01
+Males,,Rhode Island,Both,All Ages,1999,2019,Firearm,846,10739173,7.88
+Females,White,Rhode Island,Both,All Ages,1999,2019,Firearm,94,10096761,0.93
+Females,Black,Rhode Island,Both,All Ages,1999,2019,Firearm,11,881752,1.25
+Females,Am Indian/AK Native,Rhode Island,Both,All Ages,1999,2019,Firearm,P,106854,.
+Females,Asian/Pac Islander,Rhode Island,Both,All Ages,1999,2019,Firearm,P,391028,.
+Females,,Rhode Island,Both,All Ages,1999,2019,Firearm,106,11476395,0.92
+Males,White,South Carolina,Both,All Ages,1999,2019,Firearm,7733,32484708,23.81
+Males,Black,South Carolina,Both,All Ages,1999,2019,Firearm,4209,12926144,32.56
+Males,Am Indian/AK Native,South Carolina,Both,All Ages,1999,2019,Firearm,35,260760,13.42
+Males,Asian/Pac Islander,South Carolina,Both,All Ages,1999,2019,Firearm,65,694313,9.36
+Males,,South Carolina,Both,All Ages,1999,2019,Firearm,12042,46365925,25.97
+Females,White,South Carolina,Both,All Ages,1999,2019,Firearm,1857,33429259,5.56
+Females,Black,South Carolina,Both,All Ages,1999,2019,Firearm,617,14621815,4.22
+Females,Am Indian/AK Native,South Carolina,Both,All Ages,1999,2019,Firearm,10,244530,4.09
+Females,Asian/Pac Islander,South Carolina,Both,All Ages,1999,2019,Firearm,17,767989,2.21
+Females,,South Carolina,Both,All Ages,1999,2019,Firearm,2501,49063593,5.1
+Males,White,South Dakota,Both,All Ages,1999,2019,Firearm,1308,7475387,17.5
+Males,Black,South Dakota,Both,All Ages,1999,2019,Firearm,24,172454,13.92
+Males,Am Indian/AK Native,South Dakota,Both,All Ages,1999,2019,Firearm,164,783327,20.94
+Males,Asian/Pac Islander,South Dakota,Both,All Ages,1999,2019,Firearm,P,95955,.
+Males,,South Dakota,Both,All Ages,1999,2019,Firearm,S,8527123,.
+Females,White,South Dakota,Both,All Ages,1999,2019,Firearm,172,7476641,2.3
+Females,Black,South Dakota,Both,All Ages,1999,2019,Firearm,P,121561,.
+Females,Am Indian/AK Native,South Dakota,Both,All Ages,1999,2019,Firearm,19,803099,2.37
+Females,Asian/Pac Islander,South Dakota,Both,All Ages,1999,2019,Firearm,P,102104,.
+Females,,South Dakota,Both,All Ages,1999,2019,Firearm,197,8503405,2.32
+Males,White,Tennessee,Both,All Ages,1999,2019,Firearm,12511,51913255,24.1
+Males,Black,Tennessee,Both,All Ages,1999,2019,Firearm,4887,10731098,45.54
+Males,Am Indian/AK Native,Tennessee,Both,All Ages,1999,2019,Firearm,15,289726,5.18
+Males,Asian/Pac Islander,Tennessee,Both,All Ages,1999,2019,Firearm,102,1046484,9.75
+Males,,Tennessee,Both,All Ages,1999,2019,Firearm,17515,63980563,27.38
+Females,White,Tennessee,Both,All Ages,1999,2019,Firearm,2722,53867308,5.05
+Females,Black,Tennessee,Both,All Ages,1999,2019,Firearm,612,11984674,5.11
+Females,Am Indian/AK Native,Tennessee,Both,All Ages,1999,2019,Firearm,P,262123,.
+Females,Asian/Pac Islander,Tennessee,Both,All Ages,1999,2019,Firearm,29,1143254,2.54
+Females,,Tennessee,Both,All Ages,1999,2019,Firearm,S,67257359,.
+Males,White,Texas,Both,All Ages,1999,2019,Firearm,38946,212647024,18.31
+Males,Black,Texas,Both,All Ages,1999,2019,Firearm,8477,31585591,26.84
+Males,Am Indian/AK Native,Texas,Both,All Ages,1999,2019,Firearm,75,2629132,2.85
+Males,Asian/Pac Islander,Texas,Both,All Ages,1999,2019,Firearm,713,11082714,6.43
+Males,,Texas,Both,All Ages,1999,2019,Firearm,48211,257944461,18.69
+Females,White,Texas,Both,All Ages,1999,2019,Firearm,7767,213877526,3.63
+Females,Black,Texas,Both,All Ages,1999,2019,Firearm,1230,33726890,3.65
+Females,Am Indian/AK Native,Texas,Both,All Ages,1999,2019,Firearm,23,2515247,0.91
+Females,Asian/Pac Islander,Texas,Both,All Ages,1999,2019,Firearm,197,11580618,1.7
+Females,,Texas,Both,All Ages,1999,2019,Firearm,9217,261700281,3.52
+Males,White,Utah,Both,All Ages,1999,2019,Firearm,4966,26528791,18.72
+Males,Black,Utah,Both,All Ages,1999,2019,Firearm,64,468481,13.66
+Males,Am Indian/AK Native,Utah,Both,All Ages,1999,2019,Firearm,80,465528,17.18
+Males,Asian/Pac Islander,Utah,Both,All Ages,1999,2019,Firearm,81,942726,8.59
+Males,,Utah,Both,All Ages,1999,2019,Firearm,5191,28405526,18.27
+Females,White,Utah,Both,All Ages,1999,2019,Firearm,817,26308076,3.11
+Females,Black,Utah,Both,All Ages,1999,2019,Firearm,P,370557,.
+Females,Am Indian/AK Native,Utah,Both,All Ages,1999,2019,Firearm,13,461441,2.82
+Females,Asian/Pac Islander,Utah,Both,All Ages,1999,2019,Firearm,11,990184,1.11
+Females,,Utah,Both,All Ages,1999,2019,Firearm,S,28130258,.
+Males,White,Vermont,Both,All Ages,1999,2019,Firearm,1138,6217962,18.3
+Males,Black,Vermont,Both,All Ages,1999,2019,Firearm,12,91332,13.14
+Males,Am Indian/AK Native,Vermont,Both,All Ages,1999,2019,Firearm,P,32100,.
+Males,Asian/Pac Islander,Vermont,Both,All Ages,1999,2019,Firearm,P,84895,.
+Males,,Vermont,Both,All Ages,1999,2019,Firearm,1155,6426289,17.97
+Females,White,Vermont,Both,All Ages,1999,2019,Firearm,144,6413731,2.25
+Females,Black,Vermont,Both,All Ages,1999,2019,Firearm,P,73763,.
+Females,Am Indian/AK Native,Vermont,Both,All Ages,1999,2019,Firearm,P,31505,.
+Females,Asian/Pac Islander,Vermont,Both,All Ages,1999,2019,Firearm,P,103138,.
+Females,,Vermont,Both,All Ages,1999,2019,Firearm,148,6622137,2.23
+Males,White,Virginia,Both,All Ages,1999,2019,Firearm,10565,59797581,17.67
+Males,Black,Virginia,Both,All Ages,1999,2019,Firearm,4761,16232474,29.33
+Males,Am Indian/AK Native,Virginia,Both,All Ages,1999,2019,Firearm,36,443786,8.11
+Males,Asian/Pac Islander,Virginia,Both,All Ages,1999,2019,Firearm,204,4702659,4.34
+Males,,Virginia,Both,All Ages,1999,2019,Firearm,15566,81176500,19.18
+Females,White,Virginia,Both,All Ages,1999,2019,Firearm,2194,60886088,3.6
+Females,Black,Virginia,Both,All Ages,1999,2019,Firearm,623,17662033,3.53
+Females,Am Indian/AK Native,Virginia,Both,All Ages,1999,2019,Firearm,P,418752,.
+Females,Asian/Pac Islander,Virginia,Both,All Ages,1999,2019,Firearm,49,5173217,0.95
+Females,,Virginia,Both,All Ages,1999,2019,Firearm,S,84140090,.
+Males,White,Washington,Both,All Ages,1999,2019,Firearm,9978,59017930,16.91
+Males,Black,Washington,Both,All Ages,1999,2019,Firearm,752,3451664,21.79
+Males,Am Indian/AK Native,Washington,Both,All Ages,1999,2019,Firearm,284,1507036,18.84
+Males,Asian/Pac Islander,Washington,Both,All Ages,1999,2019,Firearm,387,5775946,6.7
+Males,,Washington,Both,All Ages,1999,2019,Firearm,11401,69752576,16.34
+Females,White,Washington,Both,All Ages,1999,2019,Firearm,1733,59110682,2.93
+Females,Black,Washington,Both,All Ages,1999,2019,Firearm,87,3032510,2.87
+Females,Am Indian/AK Native,Washington,Both,All Ages,1999,2019,Firearm,51,1502308,3.39
+Females,Asian/Pac Islander,Washington,Both,All Ages,1999,2019,Firearm,71,6483143,1.1
+Females,,Washington,Both,All Ages,1999,2019,Firearm,1942,70128643,2.77
+Males,White,West Virginia,Both,All Ages,1999,2019,Firearm,4609,17920393,25.72
+Males,Black,West Virginia,Both,All Ages,1999,2019,Firearm,248,765184,32.41
+Males,Am Indian/AK Native,West Virginia,Both,All Ages,1999,2019,Firearm,P,46457,.
+Males,Asian/Pac Islander,West Virginia,Both,All Ages,1999,2019,Firearm,P,142309,.
+Males,,West Virginia,Both,All Ages,1999,2019,Firearm,4866,18874343,25.78
+Females,White,West Virginia,Both,All Ages,1999,2019,Firearm,890,18629653,4.78
+Females,Black,West Virginia,Both,All Ages,1999,2019,Firearm,40,681231,5.87
+Females,Am Indian/AK Native,West Virginia,Both,All Ages,1999,2019,Firearm,P,40727,.
+Females,Asian/Pac Islander,West Virginia,Both,All Ages,1999,2019,Firearm,P,155102,.
+Females,,West Virginia,Both,All Ages,1999,2019,Firearm,933,19506713,4.78
+Males,White,Wisconsin,Both,All Ages,1999,2019,Firearm,7366,52542382,14.02
+Males,Black,Wisconsin,Both,All Ages,1999,2019,Firearm,1726,3930469,43.91
+Males,Am Indian/AK Native,Wisconsin,Both,All Ages,1999,2019,Firearm,104,684496,15.19
+Males,Asian/Pac Islander,Wisconsin,Both,All Ages,1999,2019,Firearm,109,1448605,7.52
+Males,,Wisconsin,Both,All Ages,1999,2019,Firearm,9305,58605952,15.88
+Females,White,Wisconsin,Both,All Ages,1999,2019,Firearm,1014,53266422,1.9
+Females,Black,Wisconsin,Both,All Ages,1999,2019,Firearm,197,4088769,4.82
+Females,Am Indian/AK Native,Wisconsin,Both,All Ages,1999,2019,Firearm,14,684696,2.04
+Females,Asian/Pac Islander,Wisconsin,Both,All Ages,1999,2019,Firearm,27,1505448,1.79
+Females,,Wisconsin,Both,All Ages,1999,2019,Firearm,1252,59545335,2.1
+Males,White,Wyoming,Both,All Ages,1999,2019,Firearm,1610,5515019,29.19
+Males,Black,Wyoming,Both,All Ages,1999,2019,Firearm,12,89912,13.35
+Males,Am Indian/AK Native,Wyoming,Both,All Ages,1999,2019,Firearm,31,161086,19.24
+Males,Asian/Pac Islander,Wyoming,Both,All Ages,1999,2019,Firearm,P,52494,.
+Males,,Wyoming,Both,All Ages,1999,2019,Firearm,S,5818511,.
+Females,White,Wyoming,Both,All Ages,1999,2019,Firearm,273,5341106,5.11
+Females,Black,Wyoming,Both,All Ages,1999,2019,Firearm,P,67287,.
+Females,Am Indian/AK Native,Wyoming,Both,All Ages,1999,2019,Firearm,P,157539,.
+Females,Asian/Pac Islander,Wyoming,Both,All Ages,1999,2019,Firearm,P,63278,.
+Females,,Wyoming,Both,All Ages,1999,2019,Firearm,284,5629210,5.05
+,,,Both,All Ages,1999,2019,Firearm,691757,6414642495,10.78
